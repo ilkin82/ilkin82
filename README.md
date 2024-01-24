@@ -1,10 +1,10 @@
-Hi 👋 My name is Ilkin Iskandar
+Hi My name is Ilkin Iskandar
 ===============================
 
 Software Developer
 ------------------
 
-I've successfully graduated Associate Course of Software Development in Code Academy (Baku, Azerbaijan) and got the Diploma. My program included HTML5, CSS3, Javascript, Bootsrap, SASS & JQuery for front-end, C#, ADO.NET, ASP.NET MVC, also AJAX, XML & JSON for Back-end & Microsoft SQL Server for database. Right know I am developing my knowledge learning ASP.NET CORE 8.0 and will add React.js and Angular for the future. I will upload my projects to my portfolio in nearest future.
+I've successfully graduated Associate Course of Software Development in Code Academy (Baku, Azerbaijan) and got the Diploma. My program included HTML5, CSS3, Javascript, Bootsrap, SASS & JQuery for front-end, C#, ADO.NET, ASP.NET MVC, also AJAX, XML & JSON for Back-end & Microsoft SQL Server for database. Right know I am developing my knowledge learning ASP.NET CORE 8.0 and will add React.js and Angular for the future. I will upload my projects to my portfolio soon.
 
 * 🌍  I'm based in Baku, Azerbaijan
 * ✉️  You can contact me at [ilkiniskenderov82@gmail.com](mailto:ilkiniskenderov82@gmail.com)
